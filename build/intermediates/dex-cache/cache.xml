@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nourm\.android\build-cache\99f66a9f889413459069674099117fe6643f7d7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e415b77496d3bdc3df0252f4c724b31a9c34b029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nourm\.android\build-cache\751ed95891a02b5e44bedfad46548a7b2222eb4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f6043566a17fe6a9a6647b314fb8dd4929c8a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nourm\.android\build-cache\ab706cc3efa78ce37296dfce6a3e746c843e8f68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52421864b034d5d213675a022d27e8c7ecab9f19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\projects\Socialize\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70957f12ee37006c2e44dea05e77c6c1d328851a">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b30baf91d0323a9579d14f9d31df984ce577ffa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\projects\Socialize\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9449efae3f9a7eacab39cdb0ca98a9bbf31bbdf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nourm\.android\build-cache\fdfb1b264b4b07a5556fdc30cf12a7be175b1987\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02ab164b9a7dc390ceb2fa04261137229d4f8269\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nourm\.android\build-cache\a4f83d96069f4ecf9897912a057b21e5c1a3dcf3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae4f01d394a0580d57e528f23137dd57a7ffd0f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nourm\.android\build-cache\b4ad6965a37a592993580e0279879f716702f91a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2536c65a7d3c80d927e9a6428a4dfac521f1720b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nourm\.android\build-cache\5552c8060f93202e36adf31e21aa3f382ee495a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85363cdb3fa148255cab6d398120fff99c6f533e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nourm\.android\build-cache\e6409c776f4b1e1fb02a37edaca8da039f83f032\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8186a1640da4498fe35aa685e7af8c534f87a283\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nourm\.android\build-cache\f3c16d7690aef82bcddd24d77e5d2606420ddca4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\Android\projects\Socialize\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af94d6e2b453464ce27f9e1f9e44093314c42d2e\classes.dex" />
+    </item>
+
+</items>
